@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplicationFramges10</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="landscape_fragment">In Landscape Fragment</string>
+    <string name="portait_fragment">In Portrait Fragment</string>
+</resources>
